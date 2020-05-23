@@ -6,11 +6,11 @@ Simple moving average is the average of stock price calculated to a certain peri
 Alpha Vantage Inc. is a leading provider of realtime and historical stock APIs , I have accessed Api_key through this website only to get our's clik this link https://www.alphavantage.co/support/#api-key
 
 
-#Packages
+# Packages
 pandas:-This package is used for setting the data frame
 TimeSeries:- This is used to get the closing stock price
 TechIndicatiors:-This is used to get the Simple Moving Average (SMA)
-#Additional
+# Additional
 You can also use matplotlib.pyplot to show graph between closing stock price and sma
 
 
